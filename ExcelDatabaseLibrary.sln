@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelDatabaseLibrary", "ExcelDatabaseLibrary\ExcelDatabaseLibrary.csproj", "{109679B2-62CC-40B4-9C55-1179698668E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoConsoleApp", "DemoConsoleApp\DemoConsoleApp.csproj", "{63057226-C1B5-4FC7-855B-8C17842EA8BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{ED4757E1-FEC8-4158-A67E-9A1B390BFE9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{109679B2-62CC-40B4-9C55-1179698668E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{109679B2-62CC-40B4-9C55-1179698668E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{109679B2-62CC-40B4-9C55-1179698668E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63057226-C1B5-4FC7-855B-8C17842EA8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63057226-C1B5-4FC7-855B-8C17842EA8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63057226-C1B5-4FC7-855B-8C17842EA8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63057226-C1B5-4FC7-855B-8C17842EA8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4757E1-FEC8-4158-A67E-9A1B390BFE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4757E1-FEC8-4158-A67E-9A1B390BFE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4757E1-FEC8-4158-A67E-9A1B390BFE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4757E1-FEC8-4158-A67E-9A1B390BFE9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
