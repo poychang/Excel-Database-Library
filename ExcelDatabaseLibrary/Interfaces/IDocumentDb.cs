@@ -19,14 +19,14 @@
 
         /// <summary>建立資料表</summary>
         /// <typeparam name="T">資料表模型類別</typeparam>
-        /// <param name="tablename">資料表名稱</param>
+        /// <param name="tableName">資料表名稱</param>
         /// <returns>是否成功</returns>
-        bool CreateTable<T>(string tablename);
+        bool CreateTable<T>(string tableName);
 
         /// <summary>刪除資料表</summary>
         /// <typeparam name="T">資料表模型類別</typeparam>
-        /// <param name="tablename">資料表名稱</param>
+        /// <param name="tableName">資料表名稱</param>
         /// <returns>是否成功</returns>
-        bool DeleteTable<T>(string tablename);
+        bool DeleteTable<T>(string tableName);
     }
 }
